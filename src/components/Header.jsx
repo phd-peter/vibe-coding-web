@@ -18,7 +18,7 @@ export default function Header() {
       <div className="w-full bg-blue-600 text-white text-center text-sm py-2 px-4">
         Lovable 오픈소스로 상대방의 웹사이트 디자인을 훔쳐오세요!
         <a
-          href="https://www.firecrawl.dev/pricing"
+          href="https://youtu.be/J3Ocsrx2b6s"
           target="_blank"
           rel="noreferrer"
           className="ml-2 underline font-semibold hover:text-gray-100 transition-colors"
@@ -35,7 +35,7 @@ export default function Header() {
               {/* Logo */}
               <a href="#" className="flex items-center gap-2 group">
                 <div className="h-8 w-8 rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 shadow-md group-hover:scale-105 transition-transform"></div>
-                <span className="font-bold text-white tracking-tight">Firecrawl</span>
+                <span className="font-bold text-white tracking-tight">개발일산</span>
               </a>
 
               {/* Desktop Nav */}
